@@ -1,2 +1,1 @@
-# Task-Manager
-A small Task Manager
+pip install flask flask-sqlalchemy flask-wtf wtforms
