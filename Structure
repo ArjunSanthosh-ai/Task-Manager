@@ -1,0 +1,6 @@
+/task_manager
+│── /templates        # HTML templates
+│── /static           # CSS & JavaScript files
+│── app.py            # Main Flask application
+│── requirements.txt  # Dependencies
+│── database.db       # SQLite database
